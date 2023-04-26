@@ -4,6 +4,7 @@ This was the semester project for my Artificial Intelligence class and it was do
 
 Osaid Zeyad: https://www.linkedin.com/in/osaid-zeyad-a49094210/
 and
+
 Steven Lin: https://www.linkedin.com/in/steven-lin-724682220/
 
 https://user-images.githubusercontent.com/97653144/234657645-d6f9ceb0-6e93-4808-8299-b8a82f665b2b.mov
